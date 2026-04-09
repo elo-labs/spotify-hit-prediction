@@ -1,7 +1,7 @@
 # 🎧​ Spotify Hit Prediction 🎶​
 
 <p align="left">
-  <img src="image-3.png" width="380"/>
+  <img src="image.png" width="380"/>
 </p>
 
 Dataset source : Hugging Face (Faizasb/spotify-tracks-dataset)
