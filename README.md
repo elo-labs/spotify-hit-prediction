@@ -71,6 +71,7 @@ Chaque morceau est décrit par des caractéristiques musicales telles que le car
 ***C (Do), C# (Do#), D (Ré), D# (Ré#), E (Mi), F (Fa), F# (Fa#), G (Sol), G# (Sol#), A (La), A# (La#), B (Si)***
 
 - **mode** : 0 = mineur (triste), 1 = majeur (joyeux)
+- **explicit**: indique si le morceau contient des paroles explicites (True = Oui, False = Non ou inconnu)
 - **time_signature** : mesure rythmique (exemple : 4/4)
 
 ---
