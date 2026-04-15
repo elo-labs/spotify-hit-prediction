@@ -8,19 +8,26 @@ Dataset source : Hugging Face (Faizasb/spotify-tracks-dataset)
 
 ---
 
-## 🎯​ Objectif du projet
+## 🎯​ Objectif du projet / Objective
 
 Ce projet a pour objectif de prédire si un morceau peut devenir un "hit" à partir de ses 
 caractéristiques audio extraites de Spotify.
 
+The goal of this project is to predict whether a song can become a "hit" based on its audio features extracted from Spotify.
+
 ---
 
-## 💼​ Problématique métier
+## 💼​ Problématique métier / Business Problem
 
 Comprendre les facteurs qui influencent le succès d’un morceau afin d'aider les maisons de disques à :
 - optimiser la production musicale
 - améliorer les stratégies marketing
 - mieux positionner les artistes
+
+Understanding the factors that influence a song’s success in order to help record labels:
+- optimize music production
+- improve marketing strategies
+- better position artists
 
 ---
 
