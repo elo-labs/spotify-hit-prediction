@@ -102,6 +102,16 @@ Chaque morceau est décrit par des caractéristiques musicales telles que le car
 
 ## 🔍 Conclusions principales (EDA)
 
-*Cette section sera complétée après la finalisation de l’analyse exploratoire des données.*
+L’analyse exploratoire montre que le succès d’un morceau (`is_hit`) ne dépend pas d’une seule variable, mais d’une combinaison de facteurs.
+
+Les caractéristiques audio (énergie, dansabilité, etc.) constituent le signal principal, complétées par certaines variables comme le genre musical et le caractère explicite.
+
+Certaines variables ont été exclues du modèle car elles n’apportent pas d’information utile ou risquent de biaiser les résultats (identifiants, popularité, artistes).
+
+Enfin, les valeurs atypiques (outliers) ont été conservées, car elles reflètent la diversité réelle des morceaux.
+
+Ces éléments guideront les étapes de prétraitement des données, puis la modélisation.
+
+**Pour une analyse détaillée, le notebook complet est disponible ici :**  [Voir le notebook EDA](https://nbviewer.org/github/elo-labs/spotify-hit-prediction/blob/main/notebooks/eda.ipynb)
 
 
